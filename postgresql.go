@@ -1,4 +1,4 @@
-package database
+package posgtresql
 
 import (
 	"database/sql"
